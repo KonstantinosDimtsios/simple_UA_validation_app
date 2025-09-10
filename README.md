@@ -5,7 +5,7 @@
 
   - Input for Username.
   - Input for age (number in years).
-  - List of displaying the above.
+  - List to display the ifnormation above if they meet the requirements.
 
 :art: For the visual styling i have used:
 
